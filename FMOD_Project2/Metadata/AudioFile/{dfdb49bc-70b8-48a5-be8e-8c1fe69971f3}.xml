@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dfdb49bc-70b8-48a5-be8e-8c1fe69971f3}">
+		<property name="assetPath">
+			<value>UI Sfx/Wav/Mouth/Mouth_36.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.073687500000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

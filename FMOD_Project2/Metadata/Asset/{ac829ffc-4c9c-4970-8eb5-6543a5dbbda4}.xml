@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{ac829ffc-4c9c-4970-8eb5-6543a5dbbda4}">
+		<property name="assetPath">
+			<value>UI Sfx/Wav/Mouth/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{5734d193-2f78-48e5-94e9-5d80b12bb7c2}">
+		<property name="assetPath">
+			<value>Sound Pack_Platformer/__MACOSX/Sound Pack_Platformer/._Gun_long.wav</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

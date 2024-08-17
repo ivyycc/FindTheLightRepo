@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{22af3721-3eb9-4d06-830e-e28d19ffceff}">
+		<property name="assetPath">
+			<value>UI Sfx/Wav/Click_Heavy_00.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

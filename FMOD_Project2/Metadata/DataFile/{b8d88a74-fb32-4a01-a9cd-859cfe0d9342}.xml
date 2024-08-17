@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{b8d88a74-fb32-4a01-a9cd-859cfe0d9342}">
+		<property name="assetPath">
+			<value>UI Sfx/Wav/Mouth/Mouth_46.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

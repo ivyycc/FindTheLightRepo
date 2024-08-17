@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a22bd4ce-23dd-4c9e-9d99-eacda8fcb9b2}">
+		<property name="assetPath">
+			<value>UI Sfx/Wav/Click_Electronic/Click_Electronic_00.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

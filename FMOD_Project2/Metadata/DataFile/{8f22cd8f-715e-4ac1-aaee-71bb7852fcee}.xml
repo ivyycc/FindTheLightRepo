@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{8f22cd8f-715e-4ac1-aaee-71bb7852fcee}">
+		<property name="assetPath">
+			<value>Sound Pack_Platformer/__MACOSX/Sound Pack_Platformer/._Blink (life_money).wav</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

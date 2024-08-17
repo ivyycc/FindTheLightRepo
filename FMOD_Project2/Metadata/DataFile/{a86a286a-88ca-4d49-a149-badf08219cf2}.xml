@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a86a286a-88ca-4d49-a149-badf08219cf2}">
+		<property name="assetPath">
+			<value>UI Sfx/Mp3/Click_Electronic/Click_Electronic_09.mp3.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

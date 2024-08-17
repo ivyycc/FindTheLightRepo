@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{4d42d93d-bea4-44cb-a2c9-177f02de1d9a}">
+		<property name="assetPath">
+			<value>Sound Pack_Platformer/__MACOSX/Sound Pack_Platformer/._Blink (relic_artifact).wav</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

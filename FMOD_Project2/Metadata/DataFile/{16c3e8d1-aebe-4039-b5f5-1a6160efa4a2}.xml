@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{16c3e8d1-aebe-4039-b5f5-1a6160efa4a2}">
+		<property name="assetPath">
+			<value>UI Sfx/Mp3/Slide_Electronic_02.mp3.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

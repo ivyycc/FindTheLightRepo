@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{29cba392-0bc5-44cf-9c5f-aceec5d4bdf1}">
+		<property name="assetPath">
+			<value>3rd Note SFX Pack_Vol.1 Wonder FX/Motion, Item/Item3.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

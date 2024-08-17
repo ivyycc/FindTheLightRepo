@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{6a6bb0cb-c447-4149-88e4-3b1ffe1ecdd1}">
+		<property name="assetPath">
+			<value>Sound Pack_Platformer/Sound Pack_Platformer/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>

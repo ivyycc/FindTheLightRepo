@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{618b15d2-1ec5-4ea9-8fcc-d1e32448d4c4}">
+		<property name="assetPath">
+			<value>Sound Pack_Platformer/__MACOSX/Sound Pack_Platformer/._Blaster_short.wav</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8c84fbdf-061b-4568-a3da-bd3f42c14c60}</destination>
+		</relationship>
+	</object>
+</objects>
